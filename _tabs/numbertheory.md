@@ -1,6 +1,6 @@
 ---
-title: Combinatorics
+title: Number Theory
 icon: fas fa-book-reader
-order: 7
+order: 9
 math: true
 ---
