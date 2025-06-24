@@ -1,6 +1,6 @@
 ---
 layout: categories
 icon: fas fa-stream
-order: 20
+order: 4
 math: true
 ---
